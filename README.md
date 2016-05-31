@@ -1,4 +1,4 @@
-# TEAMMANAGER_CODE
+# Team manager
 sports management app made with php code igniter
 This application was developed to reduce the setup time of a PHP sports / team management application that uses a Public site and secure members area. It handles Manager & player registration, game attendances, game finances 
 
